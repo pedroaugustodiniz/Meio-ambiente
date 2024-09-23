@@ -103,6 +103,7 @@ main  h2 {
     color: var(--cor4);
     font-weight: 700;
     font-size: 1.3em;
+    margin-top: 15px;
     background-image: linear-gradient(to right, var(--cor0), transparent);
     text-indent: 8px;
 }
@@ -200,3 +201,4 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+
